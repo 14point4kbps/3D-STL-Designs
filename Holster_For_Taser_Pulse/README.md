@@ -1,4 +1,6 @@
-A 3D printed Holster for the new Taser Pulse. This first Holster is for a Belt wear for right handed draw.
+A 3D printed Holster for the new Taser Pulse. This first Holster is for a Belt wear for right handed draw. (taserpulseholster5.stl)
+
+
 
 Printed using ABS with .2mm layers. I also printed it in High Visibility Yellow to help distinguish it from a firearm when open carry. Probably not usable if printed in PLA. ABS will be strong and long lasting.
 Designed with pressure contacts for a tight friction fit.
